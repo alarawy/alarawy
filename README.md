@@ -11,19 +11,19 @@
 ---
 ## 🧑‍💻 About Me:
 
-- 👨‍🦱 I'm **Ahmed Reda**, a **22** years old  
-- 🎓 Final-year CS student at **Mansoura University**  
-- ⚛️ Passionate about building fast, scalable frontend apps using **React** & **Next.js**  
-- 🧼 Focused on writing **clean**, maintainable code and delivering **great UX**  
-- 💡 Always curious to explore new tools and improve my development workflow  
-- 🚀 I enjoy solving real-world problems through code and collaboration
+* 👨‍💻 I'm **Ahmed Reda**, a **Computer Science graduate** from **Mansoura University**.
+* ⚛️ Frontend Developer passionate about building fast, scalable web applications using **React**, **Next.js**, and **TypeScript**.
+* 🧼 I focus on writing **clean**, maintainable code and creating **responsive, user-friendly** interfaces.
+* 💡 Always eager to learn new technologies and improve my development workflow.
+* 🚀 I enjoy solving real-world problems through code and collaborating with teams to deliver high-quality products.
+
 ---
 
 
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1FpsrS9zQJ/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed_alarawy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-reda-46b3a8276)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-reda-alarawy)
 
 ---
 <!--
