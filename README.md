@@ -3,19 +3,19 @@
 </h1>
 
 <p align="center">
-  <b>Frontend Developer ⚛️ | React & Next.js Specialist</b><br/>
-  Final-year CS student @ Mansoura University 🎓<br/>
-  Lover of clean code & beautiful, smooth user interfaces ✨
+  <b>Frontend Developer ⚛️ | React & Next.js</b><br/>
+  Computer Science Graduate @ Mansoura University 🎓<br/>
+  Turning ideas into clean, thoughtful digital experiences ✨
 </p>
 
 ---
-## 🧑‍💻 About Me:
+##🧑‍💻 About Me:
 
-* 👨‍💻 I'm **Ahmed Reda**, a **Computer Science graduate** from **Mansoura University**.
-* ⚛️ Frontend Developer passionate about building fast, scalable web applications using **React**, **Next.js**, and **TypeScript**.
-* 🧼 I focus on writing **clean**, maintainable code and creating **responsive, user-friendly** interfaces.
-* 💡 Always eager to learn new technologies and improve my development workflow.
-* 🚀 I enjoy solving real-world problems through code and collaborating with teams to deliver high-quality products.
+* 👨‍💻 I'm Ahmed Reda, a Computer Science graduate from Mansoura University.
+* ⚛️ Frontend Developer focused on building modern web experiences with React, Next.js, and TypeScript.
+* 🧼 I care about clean, maintainable code and thoughtful, user-friendly interfaces.
+* 💡 Always learning, exploring new technologies, and improving how I build.
+* 🚀 I enjoy turning ideas into polished digital experiences and solving real-world problems through code.
 
 ---
 
@@ -26,15 +26,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-reda-alarawy)
 
 ---
-<!--
-## 🚀 Featured Projects:
-> *(Add links and descriptions below)*
-
-- **[Project Name](#)** – Short project description
-- **[Another Project](#)** – Another short description
-
----
--->
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,7 +43,6 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<!--![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)-->
 
 ---
 
