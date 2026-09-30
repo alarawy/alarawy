@@ -51,14 +51,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=alarawy&theme=dark&ring=36BCF7FF&fire=36BCF7&currStreakLabel=36BCF7&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alarawy&theme=dark&card_width=600&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=alarawy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/alarawy/alarawy/output/activity-graph.svg"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</p>
+
 
